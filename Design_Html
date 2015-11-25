@@ -1,0 +1,62 @@
+<html>
+
+<head>
+<title>
+Membersite Management System
+</title>
+</head>
+{
+	margin:0;
+	padding:0;
+}
+body{
+	width:100%;
+	background:#878787;
+}
+#wrapper{
+	width:1000px;
+	margin:0 auto;
+}
+nav{
+	height:40px;
+	background:#444444;
+}
+nav ul{
+	list-style:none;
+	
+}
+nav ul li{
+	line-height:40px;
+	text-align:center;
+	width:200px;
+	float:left;
+}
+header{
+	background:#999999;
+	height:70px;
+	text-align:center;
+}
+#container{
+	background:#ffffd4;
+	height:500px;
+	
+	}
+aside{
+	width:300px;
+	float:left;
+}
+#content{
+	width:700px;
+	
+}
+footer{
+	text-align:center;
+}
+nav ul li a{
+	color:#fff;
+	text-decoration:none;
+	font-size:18px;
+	font-weight:700;
+}
+
+</html>
